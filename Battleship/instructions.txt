@@ -1,0 +1,11 @@
+Instruction
+1.	To create an account, enter ‘new’ and then enter the username and password you want. \n
+2.	If you already have an account, input your username and password to login.  \n
+3.	If you want to play your unfinished game, enter yes after you login.  \n
+4.      To play with computer, type 'computer', to play with multiplayer, type 'multiplayer'.  \n
+5.	You can choose the size of board (n row)*(n column) by entering an integer, this integer should be bigger than 1.  \n
+6.	You can choose to play with a computer or another player. To play with a computer, enter ‘computer’. To play with another player, enter ‘multiplayer’.  \n
+7.	You can choose level1 or level 2 when you play with the computer. Level two is harder than leverl 1.  \n
+8.	You can place the ships by yourself by enter ‘m’, or ask the computer to placing for you by entering ‘a’.  \n
+9.	If you choose to place the ship by yourself. You need to enter the start position as a tuple of integers like (row, column). The position need to be valid. The index of rows and column start from 0.  \n
+10.	If you want to leave the game, enter -1. You also can save and continue to play it next time.  \n
